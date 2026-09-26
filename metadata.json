@@ -1,0 +1,6 @@
+{
+  "name": "KisanQueue",
+  "description": "Smart Procurement Centre & Predictive Queue Management System designed to eliminate waiting queues for farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
